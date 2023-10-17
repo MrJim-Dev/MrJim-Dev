@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jim, a Full Stack Developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Jim, a Full Web Stack Developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working at JimTech Solutions.
