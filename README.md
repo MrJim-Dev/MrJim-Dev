@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://mrjim.dev/src/img/about.png" align="center" style="width: 100%" />
-</div>  
-
 ### Most of my repos are private! 😊
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=MrJim-Dev&show_icons=true&locale=en&theme=tokyonight" alt="MrJim-Dev" /></p>
